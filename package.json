@@ -2,6 +2,9 @@
   "name": "gestorproyectos",
   "version": "1.0.0",
   "type": "module",
+  "engines":{
+      "node": "18.1"
+  },
   "description": "Una aplicacion para gestionar ppp y conocimientos en Maestra Vida",
   "main": "comunaBuild/index.js",
   "scripts": {

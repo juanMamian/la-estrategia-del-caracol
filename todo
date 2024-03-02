@@ -6,3 +6,4 @@ Atlas de conocimiento.
 -Reparar los foros.
 -APLAZADO Verificar si en el resolver de eliminación de nodos se eliminan los enlaces que lo tenian en idRef.
 -temporalmente en el back end los usuarios con permiso "maestraVida-profesor" están en los permisos especiales de algunas mutaciones de eventos. Deshacer cuando ya no haya necesidad.
+-cambio falso

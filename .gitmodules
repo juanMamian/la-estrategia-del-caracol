@@ -1,0 +1,3 @@
+[submodule "comunaBuild/public/atlasConocimiento/nodosConocimiento"]
+	path = comunaBuild/public/atlasConocimiento/nodosConocimiento
+	url = https://github.com/juanMamian/nodosConocimiento

@@ -373,7 +373,7 @@ export default {
             mostrandoBloquesSubscripcion: false,
             permisosPosibles: [
                 "usuario",
-                "subsripcion-ilimitada",
+                "subscripcion-ilimitada",
                 "administrador",
                 "atlasAdministrador",
                 "superadministrador",
